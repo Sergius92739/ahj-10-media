@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/yntpyaw2ssdlo8vk/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ahj-10-media/branch/master)
 
-#### Deployment: 
+#### Deployment: <a href="https://sergius92739.github.io/ahj-10-media/">Github Pages</a>
 
 ---
 
